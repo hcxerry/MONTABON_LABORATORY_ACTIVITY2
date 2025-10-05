@@ -1,6 +1,6 @@
 // Book class
 
-class Book { // <-- Corrected: Removed 'public'
+class Book { 
     private String title;
     private String author;
     private int yearPublished;
@@ -50,6 +50,7 @@ class Book { // <-- Corrected: Removed 'public'
 // AI THAT USE ChatGPT-5 
 // Conversation of AI 
 // https://chatgpt.com/share/68e22c7f-8754-8005-a420-8bb634473d52
+
 
 
 
