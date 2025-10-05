@@ -1,7 +1,11 @@
-// MyBookList.java
-
 public class MyBookList {
-
+    
+    // 1.) Create the following books that contains the title, author, year published. Use the Book class for this part.
+        //      Rich Dad Poor Dad, Robert Kiyosaki, 1997
+        //      The Power of Habit, Charles Duhigg, 2012
+        //      Atomic Habits, James Clear, 2018
+        //      Java Programming, John Doe, 2020
+        //      Add your own favorite book
     public static void main(String[] args) { 
         Book book1 = new Book("Rich Dad Poor Dad", "Robert Kiyosaki", 1997);
         Book book2 = new Book("The Power of Habit", "Charles Duhigg", 2012);
@@ -46,18 +50,12 @@ public class MyBookList {
         }
     }
 
-} // <-- Closing brace for MyBookList class added here
-
-// ----------------------------------------------------------------------
-// The Book class is defined below. The 'public' keyword is removed
-// so it can coexist with the public MyBookList class in the same file.
-// ----------------------------------------------------------------------
-
-
+} 
 
 // AI THA USE - ChatGPT-5 
 // Conversation with AI link
 // https://chatgpt.com/share/68e22c7f-8754-8005-a420-8bb634473d52
+
 
 
 
